@@ -43,7 +43,7 @@ export const infos = {
   name: "Castro Advogados Associados",
   email: "contato", // Email desejado pelo cliente
   emailSecundario: "A_Definir", // Email desejado pelo cliente
-  domain: "divorcio-urgente-castro.escritorioespecializado.adv.br", // Sem "www"
+  domain: "divorcio-urgente.bentakadvespecializada.com.br", // Sem "www"
   phone: {
     ddd: "66",
     firstPart: "99248", // Apenas os 5 primeiros números (incluindo o 9)
