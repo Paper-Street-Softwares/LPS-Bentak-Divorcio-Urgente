@@ -430,7 +430,7 @@ const content = {
       paragraphModalCta: "Entre em contato",
       titleModal: "A_Definir",
       ctaButtonAriaLabel: "Botão para entrar em contato",
-      ctaButtonText: "Falar diretamente com as Advogadas",
+      ctaButtonText: "Falar diretamente com a Advogada",
       // aboutSocial: {
       //   img: {
       //     img: aboutSocialImg,
